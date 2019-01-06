@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="multichainlist_alice_bob1.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.6618353"
+     inkscape:cx="396.85039"
+     inkscape:cy="760.66007"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       id="rect4504"
+       width="201.08333"
+       height="102.05357"
+       x="7.5595236"
+       y="35.440475"
+       style="stroke-width:1.865;stroke:#000000;fill-opacity:1;fill:none;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="11.622441"
+       y="59.297195"
+       id="text4536"><tspan
+         sodipodi:role="line"
+         id="tspan4534"
+         x="11.622441"
+         y="59.297195"
+         style="stroke-width:0.26458332">Alice</tspan></text>
+    <text
+       id="text4540"
+       y="98.622429"
+       x="12.100076"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan4542"
+         x="12.100076"
+         y="98.622429">Bob</tspan></text>
+    <ellipse
+       style="fill:none;stroke:#000056;stroke-width:1.86500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4565"
+       cx="70.689911"
+       cy="55.316902"
+       rx="20.856709"
+       ry="10.189538" />
+    <ellipse
+       style="fill:none;stroke:#000056;stroke-width:1.86500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4565-0"
+       cx="127.52843"
+       cy="55.476116"
+       rx="20.856709"
+       ry="10.189538" />
+    <ellipse
+       style="fill:none;stroke:#000056;stroke-width:1.86500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4565-0-9"
+       cx="178.95375"
+       cy="55.47612"
+       rx="20.856709"
+       ry="10.189538" />
+    <ellipse
+       style="fill:none;stroke:#000056;stroke-width:1.86500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4565-8"
+       cx="70.689911"
+       cy="95.040184"
+       rx="20.856709"
+       ry="10.189538" />
+    <ellipse
+       style="fill:none;stroke:#000056;stroke-width:1.86500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4565-0-8"
+       cx="127.52843"
+       cy="95.199394"
+       rx="20.856709"
+       ry="10.189538" />
+    <ellipse
+       style="fill:none;stroke:#000056;stroke-width:1.86500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4565-0-9-5"
+       cx="178.95375"
+       cy="95.199402"
+       rx="20.856709"
+       ry="10.189538" />
+    <rect
+       style="fill:none;stroke:#69e3bc;stroke-width:1.86500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4620"
+       width="52.380596"
+       height="92.82032"
+       x="44.738438"
+       y="40.510235" />
+    <rect
+       style="fill:none;stroke:#69e3bc;stroke-width:1.86500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4622"
+       width="107.30856"
+       height="92.82032"
+       x="97.119034"
+       y="40.510231" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="56.201668"
+       y="58.501137"
+       id="text4626"><tspan
+         sodipodi:role="line"
+         id="tspan4624"
+         x="56.201668"
+         y="58.501137"
+         style="stroke-width:0.26458332">hug B.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;-inkscape-font-specification:'sans-serif, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       x="57.217743"
+       y="97.985245"
+       id="text4626-2"><tspan
+         sodipodi:role="line"
+         id="tspan4646">hug A.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="113.04019"
+       y="58.978771"
+       id="text4650"><tspan
+         sodipodi:role="line"
+         id="tspan4648"
+         x="113.04019"
+         y="58.978771"
+         style="stroke-width:0.26458332">dance</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="165.0085"
+       y="98.559227"
+       id="text4650-2"><tspan
+         sodipodi:role="line"
+         id="tspan4648-1"
+         x="165.0085"
+         y="98.559227"
+         style="stroke-width:0.26458332">dance</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="162.39577"
+       y="58.341927"
+       id="text4672"><tspan
+         sodipodi:role="line"
+         id="tspan4676"
+         x="162.39577"
+         y="58.341927">paint p.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="110.89403"
+       y="98.336273"
+       id="text4672-7"><tspan
+         style="stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan4676-5"
+         x="110.89403"
+         y="98.336273">paint p.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="48.559509"
+       y="126.32524"
+       id="text4698"><tspan
+         sodipodi:role="line"
+         id="tspan4696"
+         x="48.559509"
+         y="126.32524"
+         style="stroke-width:0.26458332">prio high</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;-inkscape-font-specification:'sans-serif, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       x="129.94968"
+       y="125.36963"
+       id="text4698-1"><tspan
+         sodipodi:role="line"
+         id="tspan4726">prio low</tspan></text>
+  </g>
+</svg>
